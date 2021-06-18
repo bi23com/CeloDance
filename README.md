@@ -1,4 +1,4 @@
-# Introduction
+# Introduction of CeloDance
 
 CeloDance is a lightweight celo assets management tool.
 
