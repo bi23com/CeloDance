@@ -6,7 +6,7 @@ With CeloDance, you can easily manage multiple address assets. By importing mnem
 
 Through CeloDance, you can also send and receive CELO/cUSD, and query the corresponding historical records. the transfer of the multi-address assets becomes more convenient.
 
-CeloDance also makes a clear and intuitive display of the rewards of each address. Under the corresponding address card on the homepage, you can see what kind of rewards this address is currently earning. besides, you can lock、vote and withdraw celo to groups to earn staking rewards.
+CeloDance also makes a clear and intuitive display of the rewards of each address. Under the corresponding address card on the homepage, you can see what kind of rewards this address is currently earning. Besides, you can lock、vote and withdraw celo to groups to earn staking rewards.
 
 CeloDance, Make The Money Dance!
 
