@@ -1,0 +1,4 @@
+CFBundleDisplayName = "CeloDance";
+NSPhotoLibraryAddUsageDescription = "Your consent is required to access the album to store the photos";
+NSPhotoLibraryUsageDescription = "You need to agree to save the picture to the album";
+NSCameraUsageDescription = "Needs camera access to scan QR codes";

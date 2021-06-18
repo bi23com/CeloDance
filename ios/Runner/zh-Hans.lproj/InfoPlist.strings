@@ -1,0 +1,4 @@
+CFBundleDisplayName = "CeloDance";
+NSPhotoLibraryAddUsageDescription = "需要您的同意,访问相册存储照片";
+NSPhotoLibraryUsageDescription = "需要您的同意,才能保存图片至相册";
+NSCameraUsageDescription = "使用相机扫描二维码";
