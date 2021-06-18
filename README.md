@@ -1,6 +1,6 @@
 # Introduction
 
-CeloDance is a lightweight celo assets management tool.
+CeloDance is a lightweight celo assets management wallet.
 
 With CeloDance, you can easily manage multiple address assets. By importing mnemonic words, creating new addresses, observing addresses, and authorizing Valora, you can intuitively see the assets of multiple addresses, the amount and distribution of CELO/cUSD/cEUR, and the graph showing changes in converted value.
 
