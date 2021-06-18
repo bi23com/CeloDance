@@ -10,7 +10,7 @@ CeloDance also makes a clear and intuitive display of the rewards of each addres
 
 CeloDance, Make The Money Dance!
 
-Welcome to download and try CeloDance on the [official website]( http://celo.dance)
+Welcome to download and try CeloDance on the [official website]( http://celo.dance).
 - [try on googleplay](https://play.google.com/store/apps/details?id=cn.app.celo.dance)
 - [try on Appstore](https://apps.apple.com/hk/app/celodance/id1563256439)
  
